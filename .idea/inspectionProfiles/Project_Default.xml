@@ -1,0 +1,12 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AndroidDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="MissingFinalNewline" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="MisspelledHeader" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="CUSTOM_HEADERS">
+        <header value="com.example.kushal.leandigit1.MainActivity" />
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
